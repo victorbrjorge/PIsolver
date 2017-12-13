@@ -1,4 +1,4 @@
-#Integer Programming solver
+# Integer Programming solver
 
 Para executar: python integer_programming.py <<arquivo_de_entrada>>
 
